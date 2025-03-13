@@ -33,10 +33,10 @@ This repository contains various **algorithmic projects** implemented as part of
 ## 🔧 How to See the Code
 Clone the repository:
    ```bash
-https://github.com/RaeC0717/Graph Search & Route Tracing.git
-https://github.com/RaeC0717/Priority Queues & Streaming Algorithms.git
-https://github.com/RaeC0717/Hash Tables & Large Data Structures.git
-https://github.com/RaeChen0717/Optimization Algorithms (TSP & Knapsack).git
+https://github.com/RaeC0717/Graph_Search_Route_Tracing.git
+https://github.com/RaeC0717/Priority_Queues_Streaming_Algorithms.git
+https://github.com/RaeC0717/Hash_Tables_Large_Data_Structures.git
+https://github.com/RaeChen0717/Optimization_Algorithms_(TSP&Knapsack).git
 
 
    
