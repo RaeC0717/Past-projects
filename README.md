@@ -34,5 +34,9 @@ This repository contains various **algorithmic projects** implemented as part of
 Clone the repository:
    ```bash
 https://github.com/RaeC0717/p1-281.git
+https://github.com/RaeC0717/p2-281.git
+https://github.com/RaeC0717/p3-281bank.git
+
+
    
 
