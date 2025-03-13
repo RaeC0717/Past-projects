@@ -1,5 +1,5 @@
 # Past-projects
-# 🚀 Algorithmic Projects – EECS Coursework
+# 🚀 Algorithmic Projects – Data Structures and Algorithms
 
 ## 📌 Overview
 This repository contains various **algorithmic projects** implemented as part of my coursework in **Computer Science** at the University of Michigan. Each project focuses on key computer science concepts such as **graph search algorithms, priority queues, hash tables, and optimization techniques**.
