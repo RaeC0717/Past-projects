@@ -30,9 +30,9 @@ This repository contains various **algorithmic projects** implemented as part of
 - **Libraries & Tools:** STL (C++), NumPy (Python), Git/GitHub
 - **Version Control:** Git for tracking changes and collaboration
 
-## 🔧 How to Run the Code
+## 🔧 How to See the Code
 Clone the repository:
    ```bash
-   Compile and run C++ code:
+
    
 
