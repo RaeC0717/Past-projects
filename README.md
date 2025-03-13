@@ -33,9 +33,10 @@ This repository contains various **algorithmic projects** implemented as part of
 ## 🔧 How to See the Code
 Clone the repository:
    ```bash
-https://github.com/RaeC0717/p1-281.git
-https://github.com/RaeC0717/p2-281.git
-https://github.com/RaeC0717/p3-281bank.git
+https://github.com/RaeC0717/Graph Search & Route Tracing.git
+https://github.com/RaeC0717/Priority Queues & Streaming Algorithms.git
+https://github.com/RaeC0717/Hash Tables & Large Data Structures.git
+https://github.com/RaeChen0717/Optimization Algorithms (TSP & Knapsack).git
 
 
    
